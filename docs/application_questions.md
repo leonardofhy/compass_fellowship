@@ -46,31 +46,128 @@
 
 *All questions are optional. We recommend responding to two or more questions and keeping responses to within 300 words. We would be happy to receive a "partial" answer on a question. We want to see the process of your thinking.*
 
-### 1. What’s something you would like to understand better? How do you hope to achieve this?
+### 1. What's something you would like to understand better? How do you hope to achieve this?
+
+<details>
+<summary>💡 策略提示（點擊展開）</summary>
+
+這題測試你的「建模能力」和「真正的好奇心」。選一個智識上有深度的主題，避免純粹職涯導向的答案。
+
+</details>
+
+---
+
+**📝 Draft Answer (v1):**
+
+I want to understand how different stakeholders—academia, industry, government, and civil society—can coordinate on AI development without falling into gridlock.
+
+As an organizer of the **Taiwan AI Safety Reading Group** and a former engineer on Taiwan's national LLM project (TAIDE), I've observed a recurring pattern: each stakeholder operates under fundamentally different logics. Academia pursues truth and long-term impact. Industry optimizes for ROI and risk mitigation. Government focuses on regulation and public accountability. Non-profits try to balance these competing interests.
+
+I find myself drawn to a metaphor: AI is to our era what the textile machine was to the Industrial Revolution—a technology that will inevitably reshape social structures. But unlike the textile machine, we have the opportunity to anticipate and shape these changes.
+
+How do I hope to achieve this understanding? Through three approaches:
+1. **Modeling stakeholder incentives** — mapping what each group optimizes for and where conflicts emerge
+2. **Studying historical precedents** — how did society coordinate around previous transformative technologies?
+3. **Building bridges** — as someone who has worked in both industry and academia, I want to facilitate dialogue between communities that rarely talk to each other
+
+This program's interdisciplinary approach—drawing from game theory, sociology, and philosophy—feels like exactly the intellectual environment I need to deepen this inquiry.
+
+---
 
 ### 2. Teach us something you learned recently.
 
-最近進入頂尖 AI 實驗室做研究，我學到了關於卓越研究環境與研究者的四個觀察：
+<details>
+<summary>💡 策略提示（點擊展開）</summary>
 
-人才聚集效應：頂尖的團隊往往可以聚集更多經驗豐富，或者研究能力更強的研究人員，這種人才密度本身就是一種優勢。
+展現你能將經驗轉化為洞見的能力。用英文作答並連結到「建模」主題。
 
-高密度環境的問題篩選功能：在這種環境更容易發現好問題，因為可以在想問題的時候，通過經驗、知識和邏輯推理能力排除一些成功率不高，或者研究 taste 不夠好的題目。
+</details>
 
-極高的體力與精力要求：強的研究者往往體力和精力很驚人，他們擅長在高強度工作中保存高品質的輸出。
+---
 
-導師的多維度價值：好的 advisor 不僅可以提供好的 connection，更能在研究上提供有效的指導，指導學生更好的解決問題。
+**📝 Draft Answer (v1):**
 
-🚀 成功率加分項：
+Recently, I joined a top AI research lab. Here's what I learned about how elite research environments actually work—essentially, a model of "research institution dynamics."
 
-連結到「建模」： 你提到的第 2 點（篩選問題）其實就是一種「智識建模」。如果你能稍微提到這種篩選機制如何運作（例如：基於什麼邏輯排除壞題目），會更強。
+**Four observations:**
+
+1. **Talent density is itself a competitive advantage.** Top teams attract experienced researchers, creating a self-reinforcing cycle. The "average quality of conversation" becomes a form of intellectual infrastructure.
+
+2. **High-density environments enable better problem selection.** In such environments, researchers can quickly filter out unpromising research directions. They draw on collective experience, domain knowledge, and logical reasoning to eliminate topics with low success rates or poor "research taste." This filtering mechanism is a form of *intellectual modeling*—pattern-matching against years of tacit knowledge.
+
+3. **Elite researchers have remarkable physical stamina.** Sustained high-quality output under pressure requires not just intelligence, but endurance. This was humbling to witness.
+
+4. **Great advisors provide multi-dimensional value.** Beyond connections, they offer effective guidance on problem decomposition and solution strategies.
+
+**Why this matters:** These observations taught me that research excellence isn't just about individual brilliance—it's about *modeling and selecting the right problems*. The second point, in particular, changed how I think about my own research: instead of asking "Can I solve this?", I now ask "Is this worth solving, and how would I know?"
+
+This is, in essence, applying the same modeling mindset that AI systems use—but turned inward, on the craft of research itself.
+
+---
 
 ### 3. Tell us something you find beautiful.
+
+> 💡 **策略提示：** 這題測試「內省意識」和「價值觀」。避免太通用的答案（日落、大自然）。要具體，並展現你內在的世界。
+>
+> **可能的角度：**
+> - 一個設計精良的系統之美（連結你的工程思維）
+> - 在高壓環境中真誠人際連結的時刻
+> - 台灣多語言/多文化身份的美（連結你原住民語言翻譯工作的經驗）
+> - 解決一個困難問題時那種「啊哈！」的瞬間
+
+
+
+---
 
 ### 4. Analyze for us the purpose of your major (or your current field of study/pursuit).
 *What is it trying to teach or do in the world? How does it seek to do so?*
 
+<details>
+<summary>💡 策略提示（點擊展開）</summary>
+
+這題測試「建模能力」——你能否跳出來看你領域的 meta-purpose？
+
+</details>
+
+---
+
+**📝 Draft Answer (v1):**
+
+My field is **AI and Natural Language Processing**. Let me analyze its purpose at three levels:
+
+**Surface purpose:** Build systems that process and generate human language—translation, search, conversation.
+
+**Deeper purpose:** Bridge the gap between human cognition and machine capability. Language is how humans encode knowledge, coordinate action, and transmit culture. NLP attempts to make this vast repository of human meaning accessible to computation.
+
+**Critical lens—what does the field assume, and what does it miss?**
+
+The field implicitly assumes that language can be modeled through statistical patterns in text. But working on Taiwan's Indigenous language translation project taught me the limits of this assumption. For low-resource languages with oral traditions, there simply isn't enough text data. The field's methods—trained on English, Chinese, and other "data-rich" languages—may be inadvertently encoding a form of linguistic imperialism.
+
+Similarly, my experience on Taiwan's national LLM project (TAIDE) revealed a tension: the field optimizes for *capability* (benchmarks, speed, fluency) while *safety* is often an afterthought. The purpose of NLP, as currently practiced, is to make language models more powerful. But perhaps the deeper purpose should be: to make them more *aligned* with human values.
+
+This is why I now focus on AI Safety—not as a separate subfield, but as a necessary reorientation of the field's core purpose.
+
+---
+
 ### 5. List at least 50 questions you have about the world.
 *Feel free to exceed the recommended 300 word limit for this question.*
+
+> 💡 **策略提示：** 這是展現「智識好奇心」最重要的題目。不要想太多——讓它保持趣味、廣泛、並展現你的思考方式。
+>
+> **可以涵蓋的類別：**
+> - **AI 與社會：** 對齊、勞動、創意、意識
+> - **台灣特有議題：** 身份認同、地緣政治、語言保存
+> - **個人/哲學：** 我們如何知道自己想要什麼？什麼是美好生活？
+> - **技術好奇心：** 為什麼 X 會 work？如果 Y 會發生什麼事？
+> - **社會觀察：** 制度如何運作？人為什麼會有某些行為？
+>
+> **範例問題：**
+> 1. 為什麼台灣能在短時間內發展出世界級的 LLM 基礎設施？
+> 2. 如果 AI 能完成所有重複性工作，人類的價值會在哪裡？
+> 3. 為什麼有些研究問題「好」，有些「不好」？判斷標準是什麼？
+> 4. 一個人能同時追求多少個長期目標而不失去焦點？
+> 5. 為什麼語言會消亡？我們應該保存它們嗎？
+> ... (繼續列出 50 個)
 
 ---
 
@@ -78,6 +175,10 @@
 
 **If you used LLMs (Large Language Models) in crafting your responses, how did you use it?**
 *If you didn't use LLMs, we are also curious as to why you chose not to, or feel free to leave this section blank.*
+
+> 💡 **策略提示：** 誠實透明。建議的表達方式：
+>
+> *「我使用 Claude 來幫助我組織思緒和提升表達清晰度，但所有的想法和經驗都是我自己的。我發現 LLM 在迭代草稿時很有用，類似於和同事討論想法。」*
 
 ---
 
@@ -88,9 +189,29 @@
 - **Would you like to recommend someone else who you think should attend this program as well?**
   *(Include their full name, email, and rationale)*
 
+  > *(待你補充)*
+
 - **How did you hear about us?**
 
+I learned about the Compass Fellowship through recommendations from **Alvin Lau** and **Sin-tshong Tsu**.
+
 - **Anything else you would like to share with us?**
+
+---
+
+**📝 Draft Answer (v1):**
+
+I'm 27 years old—slightly above your typical age range. I want to address this directly.
+
+I'm applying because I believe my experience offers a perspective that might be valuable to this cohort:
+
+- As an engineer on **Taiwan's national LLM project (TAIDE)**, I witnessed how a $10M government initiative navigates the tension between capability and safety at national scale.
+- As an **organizer of the Taiwan AI Safety Reading Group**, I've been building bridges between researchers who care about alignment and a broader Taiwanese tech community that often prioritizes speed over safety.
+- Having worked in both **industry** (AI startup) and **academia** (NTU research labs), I've developed frameworks for modeling how different institutions approach risk and innovation differently.
+
+I'm at a point where I'm actively reflecting on what kind of researcher—and person—I want to become. The Compass Fellowship's emphasis on introspection and modeling feels timely: I've spent years building technical skills, and now I want to develop the wisdom to use them well.
+
+I'm excited about the possibility of learning alongside younger participants. I hope my experience might be useful to them, and I'm certain their fresh perspectives will challenge my assumptions.
 
 ---
 
